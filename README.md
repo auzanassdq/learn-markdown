@@ -26,4 +26,6 @@ Untuk membuat headers, dibutuhkan **hashtag** (`#`). Semakin banyak `#`, _semaki
 
 [GitHub Logo](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
 
-## Syntax
+## Syntax\
+
+menggunakan tanda backtick ` sebanyak 3 kali
